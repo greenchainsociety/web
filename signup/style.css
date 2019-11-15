@@ -13,6 +13,9 @@ body {
  	height: 100vh; 	
  	margin: -20px 0 50px;
 }
+.flexer {
+	display:flex;
+}
 h1 {
  	font-weight: bold; 	
  	margin: 0;
